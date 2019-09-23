@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@juliaj621/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lotide - a copy of lodash. A variety of functions that can be used in many projects",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -18,7 +18,14 @@
     "type": "git",
     "url": "git+https://github.com/juliaj621/lotide.git"
   },
-  "author": "",
+  "author": { "name" : "Julia Jachimowicz"
+    , "email" : "juliaj621@gmail.com"
+    , "url" : "https://github.com/juliaj621"
+    },
+  "contributors": [{ "name" : "Lizzy Swann"
+    , "email" : "lizzy_swann@hotmail.com"
+    , "url" : "https://github.com/lizzyfemme"
+    }],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/juliaj621/lotide/issues"
