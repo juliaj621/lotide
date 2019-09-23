@@ -1,4 +1,4 @@
-const tail=require("../tail");
+const tail = require("../tail");
 const assert = require('chai').assert;
 const result = ["Hello", "Lighthouse", "Labs"];
 const words = ["Yo Yo", "Lighthouse", "Labs", "Jello"];
