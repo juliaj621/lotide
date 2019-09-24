@@ -23,3 +23,5 @@ const countLetters = function(toCount) {
 // TEST CASES
 assertEqual(countLetters("lighthouse in the house").l, 1);
 assertEqual(countLetters("julia jachimowicz").j, 2);
+
+module.exports = countLetters;
